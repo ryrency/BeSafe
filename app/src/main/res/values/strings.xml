@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="categories_array">
+        <item>Select a category</item>
+        <item>Medical</item>
+        <item>Fire</item>
+        <item>Robbery</item>
+        <item>Accident</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="permission_rationale">Please grant location permission to start the service</string>
+
+</resources>
