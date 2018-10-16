@@ -13,4 +13,5 @@ To cancel, you would need to enter the passcode you set while the app setup to e
 Once the emergency is clicked, your location is tracked regularly using the LocationMonitoringService until you indicate that you are safe and this data is sent to cloud.<br>
 Volley is used for all network connection activities.<br>
 Recycler view is used for displaying the tutorial.<br>
+Constraint Layout used for screen Layouts.<br>
 <br>Another feature included is the record activity feature in which you can record any previous unusual activity that is no longer an emergency and this information is logged onto cloud that could be used for making the area safer by the police / authorities.
